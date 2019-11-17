@@ -1,0 +1,44 @@
+No,Category1,Category2,Function,Type,Name,Context
+1,管理,ユーザ,プロファイル,VF,EnhancedProfiles,/lightning/setup/EnhancedProfiles/home
+2,管理,ユーザ,ユーザ管理設定,LEX,UserManagementSettings,/lightning/setup/UserManagementSettings/home
+3,管理,ユーザ,公開グループ,VF,PublicGroups,/lightning/setup/PublicGroups/home
+4,管理,データ,ハンマーテスト設定,LEX,IsvHammerSubscriberOptOut,/lightning/setup/IsvHammerSubscriberOptOut/home
+5,管理,データ,スキーマ設定,LEX,SchemaSettings,/lightning/setup/SchemaSettings/home
+6,管理,データ,組織のディスク使用量,VF,CompanyResourceDisk,/lightning/setup/CompanyResourceDisk/home
+7,管理,データ,一致ルール,VF,MatchingRules,/lightning/setup/MatchingRules/home
+8,管理,データ,重複ルール,VF,DuplicateRules,/lightning/setup/DuplicateRules/home
+9,管理,メール,Ａｐｅｘ例外メール,VF,ApexExceptionEmail,/lightning/setup/ApexExceptionEmail/home
+10,管理,メール,送信,VF,OrgEmailSettings,/lightning/setup/OrgEmailSettings/home
+11,プラットフォームツール,機能設定,ホーム,LEX,HOME,/lightning/setup/HOME/home
+12,プラットフォームツール,ユーザインターフェース,アプリケーションメニュー,LEX,AppMenu,/lightning/setup/AppMenu/home
+13,プラットフォームツール,ユーザインターフェース,ユーザインターフェース,VF,UserInterfaceUI,/lightning/setup/UserInterfaceUI/home
+14,プラットフォームツール,環境 ,システムの概要,VF,SystemOverview,/lightning/setup/SystemOverview/home
+15,プラットフォームツール,ユーザエンゲージメント ,ヘルプメニュー,LEX,HelpMenu,/lightning/setup/HelpMenu/home
+16,設定,会社の設定,組織情報,VF,CompanyProfileInfo,/lightning/setup/CompanyProfileInfo/home
+17,設定,会社の設定,重要な更新,VF,CriticalUpdates,/lightning/setup/CriticalUpdates/home
+18,設定,会社の設定,言語設定,VF,LanguageSettings,/lightning/setup/LanguageSettings/home
+19,設定,セキュリティ,CORS,VF,CorsWhitelistEntries,/lightning/setup/CorsWhitelistEntries/home
+20,設定,セキュリティ,CSP 信頼済みサイト,VF,SecurityCspTrustedSite,/lightning/setup/SecurityCspTrustedSite/home
+21,設定,セキュリティ,セッションの設定,VF,SecuritySession,/lightning/setup/SecuritySession/home
+22,設定,セキュリティ,パスワードポリシー,VF,SecurityPolicies,/lightning/setup/SecurityPolicies/home
+23,設定,セキュリティ,ファイルのアップロードおよびダウンロードセキュリティ,VF,FileTypeSetting,/lightning/setup/FileTypeSetting/home
+24,設定,セキュリティ,暗号化ポリシー,VF,EncryptionPolicy,/lightning/setup/EncryptionPolicy/home
+25,設定,セキュリティ,暗号化統計,VF,EncryptionStatistics,/lightning/setup/EncryptionStatistics/home
+26,設定,セキュリティ,ログインアクセスポリシー,VF,LoginAccessPolicies,/lightning/setup/LoginAccessPolicies/home
+27,設定,セキュリティ,共有設定,VF,SecuritySharing,/lightning/setup/SecuritySharing/home
+28,標準選択リスト設定,Account,顧客リソース,VF,AccountSource,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/AccountSource/view
+29,標準選択リスト設定,Account,業種,VF,Industry,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/Industry/view
+30,標準選択リスト設定,Account,会社形態,VF,Ownership,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/Ownership/view
+31,標準選択リスト設定,Account,リードソース,VF,PersonLeadSource,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/PersonLeadSource/view
+32,標準選択リスト設定,Account,評価,VF,Rating,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/Rating/view
+33,標準選択リスト設定,Account,種別,VF,Type,/lightning/setup/ObjectManager/Account/FieldsAndRelationships/Type/view
+34,標準選択リスト設定,Case,種別,VF,Type,/lightning/setup/ObjectManager/Case/FieldsAndRelationships/Type/view
+35,標準選択リスト設定,Case,ステータス,VF,Status,/lightning/setup/ObjectManager/Case/FieldsAndRelationships/Status/view
+36,標準選択リスト設定,Case,原因,VF,Reason,/lightning/setup/ObjectManager/Case/FieldsAndRelationships/Reason/view
+37,標準選択リスト設定,Case,"	優先度",VF,Priority,/lightning/setup/ObjectManager/Case/FieldsAndRelationships/Priority/view
+38,標準選択リスト設定,Case,受付区分,VF,Origin,/lightning/setup/ObjectManager/Case/FieldsAndRelationships/Origin/view
+39,プロファイル,プロファイル,システム管理者,VF,AdminProfile,/lightning/setup/EnhancedProfiles/page?address=%2F00e7F000002EZVH
+40,プロファイル,プロファイル,鍵管理者,VF,KeyAdminProfile,/lightning/setup/EnhancedProfiles/page?address=%2F00e0p000000Hm4M
+41,プロファイル,プロファイル,API ONLY,VF,APIOnlyProfile,/lightning/setup/EnhancedProfiles/page?address=%2F00e7F000002EZVG
+42,プロファイル,プロファイル,メンテナンスセンター,VF,MaintenanceCenterProfile,/lightning/setup/EnhancedProfiles/page?address=%2F00e0p000000HgbP
+43,プロファイル,プロファイル,一般,VF,StaffProfile,/lightning/setup/EnhancedProfiles/page?address=%2F00e0p000000HgbU
