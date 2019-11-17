@@ -1,0 +1,1 @@
+java -jar ../lib/captureDisplaySettingTool-0.0.1.jar -cp conf/build.properties
